@@ -1,8 +1,5 @@
 # Credit-Card-Default-Prediction
 
-Below is a comprehensive **README.md** that explains each part of the code in detail. You can place this text in a file named `README.md` at the root of your project. It will guide anyone who wants to understand or deploy the code.
-
----
 
 # Candidate Screening Chatbot
 
@@ -312,6 +309,3 @@ Contributions are welcome! If you have suggestions or want to add features:
 This project is distributed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.
 
----
-
-**Happy Coding!** If you have any questions or need further clarification, feel free to open an issue in this repository.
